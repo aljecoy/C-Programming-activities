@@ -1,3 +1,12 @@
+//This code is for assignment purpose only.
+//This program outputs 
+//abcdefgfedcba
+//abcdef fedcba
+//abcde   edcba
+//abcd     dcba
+//abc       cba
+//ab         ba
+//a           a
 #include<stdio.h>
 int main()
 {
